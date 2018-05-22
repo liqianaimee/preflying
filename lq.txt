@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="order.css">
+    <title>有间餐厅</title>
+</head>
+<body>
+<header>
+    <img src="img/1.jpg" width="80%" height="400" align="center">
+</header>
+<div class="border-radius">懂你口味</div>
+<div class="main">
+    <div class="view">
+        <img src="img/mesr.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>木耳瘦肉</h3>
+            <p>价格:20元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/qzdj.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>茄子豆角</h3>
+            <p>价格：20元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/lxyz.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>卤香鸭爪</h3>
+            <p>价格：30元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/tcpg.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>糖醋排骨</h3>
+            <p>价格：32元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/hjbeef.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>黑椒牛排</h3>
+            <p>79元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/xjdmg.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>小鸡炖蘑菇</h3>
+            <p>价格：99元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/kouweisb.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>口味扇贝</h3>
+            <p>价格：39 元</p>
+        </div>
+    </div>
+    <div class="view">
+        <img src="img/hgr.jpg" alt="" width="200" height="200">
+        <div class="hover">
+            <h3>回锅肉</h3>
+            <p>价格：29元</p>
+        </div>
+    </div>
+    <footer>
+        <p>爱你所想 享你所爱</p>
+
+    </footer>
+
+        <div class="footer">
+            <a class="xx"  href="../Work/Html/Home.html">首页</a>
+        </div>
+
+        <div class="footer">
+            <a class="active xx" href="">发现</a>
+        </div>
+
+        <div class="footer">
+            <a class="xx" href="../page2/dc.html">订单</a>
+        </div>
+
+        <div  class="footer">
+            <a class="xx" href="../page3/0203.html">我的</a>
+        </div>
+
+</body>
+</html>
